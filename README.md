@@ -114,6 +114,7 @@ A machine-learning project focused on depression detection using ML models.
 ## 📫 Connect With Me
 
 <p align="center">
+<a href="https://www.linkedin.com/in/alisha-fatma-b52a59383?trk=contact-info">
 
 <a href="https://github.com/Alishafatma">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
