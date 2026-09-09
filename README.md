@@ -1,22 +1,22 @@
-# Hi 👋, I'm Alisha Fatma
+# 👋 Hi, I'm Alisha Fatma
 
-### 🎓 Student | 💻 Aspiring Data Science | Python | SQL
+### 💻 Developer | 📊 Data Science Enthusiast | 🐍 Python | 🌐 HTML & CSS
 
 <p align="center">
-  <i>Learning • Building • Improving 🚀</i>
+  <b>Building Projects • Learning Technology • Growing Every Day 🚀</b>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 I'm a student passionate about technology and programming
-- 💻 Interested in Web Development and Machine Learning , Data Analytics 
-- 🌐 Building projects using HTML and CSS
-- 🐍 Learning Python for programming and backend development
-- 🚀 Exploring AI, Machine Learning and Data-related projects
-- 🌱 Continuously learning and improving my technical skills
-- 📍 India
+- 💻 I'm a developer interested in building practical projects
+- 📊 Exploring Data Science and data-driven applications
+- 🐍 Working with Python
+- 🌐 Building web interfaces using HTML and CSS
+- 🤖 Exploring AI and Machine Learning through projects
+- 🚀 I learn by building real-world projects
+- 🌱 Continuously improving my technical skills
 
 ---
 
@@ -24,31 +24,25 @@
 
 ### 🌐 Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🐍 Backend / Programming
+### 🐍 Programming
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 My Projects
+## 🚀 Featured Projects
 
 ### 🌍 EarthFromSpace
 
-An interactive web project exploring Earth, space and environmental information with an engaging user interface.
+An interactive web project exploring Earth, space, climate and environmental information.
 
 🔗 [View Project](https://github.com/Alishafatma/EarthFromSpace)
 
@@ -56,7 +50,7 @@ An interactive web project exploring Earth, space and environmental information 
 
 ### 💳 Twin-Finance
 
-A web-based project focused on digital asset protection, secure transactions and financial safety.
+A web project focused on digital asset protection, secure transactions and financial safety.
 
 🔗 [View Project](https://github.com/Alishafatma/Twin-Finance)
 
@@ -64,7 +58,7 @@ A web-based project focused on digital asset protection, secure transactions and
 
 ### 🎬 Netflix Original Movies Analysis
 
-A data-focused project that explores Netflix Original Movies and analyzes information such as genres, languages, runtime and ratings.
+A data-focused project exploring Netflix Original Movies, including genres, languages, runtime and ratings.
 
 🔗 [View Project](https://github.com/Alishafatma/Success-code-for-Netflix-Original-Movies)
 
@@ -72,7 +66,7 @@ A data-focused project that explores Netflix Original Movies and analyzes inform
 
 ### 🔐 Cybersutra
 
-An AI-powered digital asset management concept designed to help users organize, manage and secure their digital assets.
+An AI-powered digital asset management project designed to help users manage and organize digital assets.
 
 🔗 [View Project](https://github.com/Alishafatma/Cybersutra)
 
@@ -80,39 +74,59 @@ An AI-powered digital asset management concept designed to help users organize, 
 
 ### 🧠 GreenFRAMEcoders
 
-A machine-learning based project focused on depression detection using ML models.
+A machine-learning project focused on depression detection using ML models.
 
 🔗 [View Project](https://github.com/Alishafatma/GreenFRAMEcoders)
 
 ---
 
+## 📚 Currently Learning
 
-## 📈 GitHub Stats
+- 🌐 Web Development
+- 🐍 Python Programming
+- 📊 Data Science
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Programming & Problem Solving
 
-![GitHub Stats](https://github.com/Alishafatma)
+---
+
+## 🎯 My Goals
+
+- 🚀 Build more real-world projects
+- 💻 Improve my development skills
+- 🐍 Become stronger in Python
+- 📊 Grow my Data Science skills
+- 🤖 Explore AI and Machine Learning
+- 💼 Gain internship experience
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alishafatma&show_icons=true&theme=tokyonight&hide_border=true)
+
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/alisha-fatma-b52a59383?trk=contact-info
-- 📧 Email: fatimaalishaa321@gmail.com
+<p align="center">
+
+<a href="https://github.com/Alishafatma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 📚 Currently Learning
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
 
-```text
-HTML       ████████████████████░░  Learning
-CSS        ██████████████████░░░░  Learning
-Python     ████████████████░░░░░░  Learning
-Git/GitHub ███████████████░░░░░░░  Learning
-
-
----
-###
-⭐ Thanks for visiting my profile!
-
-
-
-
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
