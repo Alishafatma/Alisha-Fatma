@@ -9,14 +9,14 @@
 ---
 
 ## 👩‍💻 About Me
-
+-🎓 B.Tech CSE(Data science) Student @ MACET Patna | Class of 2029
 - 💻 I'm a developer interested in building practical projects
 - 📊 Exploring Data Science and data-driven applications
 - 🐍 Working with Python
 - 🌐 Building web interfaces using HTML and CSS
-- 🤖 Exploring AI and Machine Learning through projects
 - 🚀 I learn by building real-world projects
-- 🌱 Continuously improving my technical skills
+-📍 Patna, Bihar, India
+-📫 Reach me at fatimaalishaa321@gmail.com
 
 ---
 
