@@ -9,7 +9,8 @@
 ---
 
 ## 👩‍💻 About Me
--🎓 B.Tech CSE(Data science) Student @ MACET Patna | Class of 2029
+
+- 🎓 B.Tech CSE(Data science) Student @ MACET Patna | Class of 2029
 - 💻 I'm a developer interested in building practical projects
 - 📊 Exploring Data Science and data-driven applications
 - 🐍 Working with Python
