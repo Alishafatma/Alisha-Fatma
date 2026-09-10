@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alisha Fatma
 
-### Data Science Student | Learning Python, SQL & Machine Learning | Future Data Scientist | Exploring Data , AI & Business Analytics
+### Data Science Student | Learning Python, SQL & Machine Learning | Future Data Scientist 
 
 <p align="center">
   <b>Building Projects • Learning Technology • Growing Every Day 🚀</b>
