@@ -16,8 +16,8 @@
 - 🐍 Working with Python
 - 🌐 Building web interfaces using HTML and CSS
 - 🚀 I learn by building real-world projects
--📍 Patna, Bihar, India
--📫 Reach me at fatimaalishaa321@gmail.com
+- 📍 Patna, Bihar, India
+- 📫 Reach me at fatimaalishaa321@gmail.com
 
 ---
 
